@@ -1,3 +1,3 @@
  ProgramacionWeb
 
-Aqui subiremos las verciones que hayamos creado del proyecto
+Aqui subiremos las versiones que hayamos creado del proyecto
