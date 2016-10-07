@@ -7,5 +7,12 @@ th, td {
     text-align: left;
     padding: 8px;
 }
+#tablas{
+	left: 9%;
+    top: 43%;
+	position: absolute;
+	display: inline-block;
+	overflow-x:auto;
+}
 
 tr:nth-child(even){background-color: #f2f2f2}

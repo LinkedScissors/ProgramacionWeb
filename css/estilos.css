@@ -5,14 +5,14 @@
 	width: 15%;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-    background-image: url("../imágenes/LogoITSM.png");
+    background-image: url("../imagenes/LogoITSM.png");
 
 }
 #img2{
 	display: inline-block;
 	height: 200px;
 	width: 84%;
-    background-image: url("../imágenes/tec.jpg");
+    background-image: url("../imagenes/tec.jpg");
     background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
@@ -22,7 +22,7 @@ nav ul{
     list-style: none;   
 }
 aside nav ul li{
-    margin: 40px 0 100px 0;
+    margin: 40px 0 70px -19px;
 
 }
 nav li {
@@ -85,11 +85,25 @@ body{
 }
 #fondo2{
 	height: 500px;
-	width: 7%;
 	border: 1px solid #831608;
 	background-color: #831608;
     background-image: linear-gradient(#bb413b, #831608);
     border-radius: 0px;
     text-shadow: 0 -1px 0 rgba(0,0,0,.8);
     box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3), 0 3px 0 rgba(0, 0, 0, 0.7), 0 2px 2px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+#lado{
+    display: inline-block;
+    width: 8%;
+}
+#SeccionBusqueda{
+    position: absolute;
+    left: 40%;
+    top: 35%;
+    display: inline-block;
+}
+.saludo{
+
+    color: #FFFFFF;
+    margin-left: 20px;
 }
