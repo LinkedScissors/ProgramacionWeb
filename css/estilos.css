@@ -97,6 +97,7 @@ body{
     width: 8%;
 }
 #SeccionBusqueda{
+    font: bold 14px Arial, Helvetica;
     position: absolute;
     left: 40%;
     top: 35%;
